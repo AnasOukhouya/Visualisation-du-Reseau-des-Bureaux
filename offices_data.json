@@ -1,0 +1,1 @@
+[{"name": "Khouribga", "latitude": 32.886023, "longitude": -6.9208655, "switches": [{"name": "f", "ip_address": "7", "picture": "switch1.jpeg"}], "is_sub_office": false, "parent_office": null}, {"name": "sidi chennane", "latitude": 57.0, "longitude": -6.66, "switches": [], "is_sub_office": true, "parent_office": "Khouribga"}]
