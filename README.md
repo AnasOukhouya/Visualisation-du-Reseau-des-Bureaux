@@ -16,3 +16,8 @@ Cette application Streamlit permet de visualiser et de gérer un réseau de bure
 2. Installez les dépendances :
    ```bash
    pip install -r requirements.txt
+
+## Lancement de l'application
+1. Lancez l'application Streamlit avec la commande suivante :
+   ```bash
+   streamlit run app.py
